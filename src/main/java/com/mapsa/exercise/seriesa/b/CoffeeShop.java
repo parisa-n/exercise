@@ -1,9 +1,36 @@
 package com.mapsa.exercise.seriesa.b;
 
 public class CoffeeShop {
-
+	private String name ;
+	private MenuItem[] menu ;
+	private String[] orders ;
 	public CoffeeShop(String string, MenuItem[] menu, String[] strings) {
-		// TODO Auto-generated constructor stub
+		this.name = name ;
+		this.menu = menu ;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public MenuItem[] getMenu() {
+		return menu;
+	}
+
+	public void setMenu(MenuItem[] menu) {
+		this.menu = menu;
+	}
+
+	public String[] getOrders() {
+		return orders;
+	}
+
+	public void setOrders(String[] orders) {
+		this.orders = orders;
 	}
 
 	public Object addOrder(String string) {
