@@ -1,0 +1,12 @@
+
+~squid:S4165
+"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë–ê¿
+Bsquid:S1172	"&Remove these unused method parameters.(Òƒ€›øÿÿÿÿ
+Csquid:S1172&"-Remove this unused method parameter "string".(£¯„
+Nsquid:S1135'"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Psquid:S3400-"9Remove this method and declare a constant for this value.(”·³›
+Nsquid:S1135,"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S11351"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S11356"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S1135;"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
